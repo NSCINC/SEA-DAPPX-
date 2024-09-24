@@ -1,8 +1,7 @@
 Aqui está a versão atualizada do README para o projeto **NSC IA X HoloFi DApp**. Fiz algumas melhorias e adicionei detalhes relevantes:
 
 ---
-
-## 🌎 NSC IA X HoloFi DApp 🌎
+## 🌎 NSC IA HoloFi SEA 🌎
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
